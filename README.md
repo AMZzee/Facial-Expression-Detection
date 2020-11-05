@@ -1,5 +1,5 @@
 # Facial-Expression-Detection
-### (Evobi Automations Internship Task)
+
 End to End Development of a facial expression detection CNN model in an executable format.
 
 Expression Detection model capable of running on live camera feed.
